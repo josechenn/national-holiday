@@ -1,0 +1,7 @@
+{
+    "packageManager": "github",
+    "repo": "josechenn/national-holiday",
+    "files": {
+      "include": ["data/2020.js", "data/2021.js"]
+    }
+  }
