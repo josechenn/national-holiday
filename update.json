@@ -1,14 +1,10 @@
 {
     "metadata": {
         "packageManager": "github",
-        "name": "josechenn",
+        "name": "national-holiday",
         "repo": "josechenn/national-holiday",
         "files": {
           "inclue": ["data/2020.js", "data/2021.js", "data/2020.js"]
-        },
-        "localVersions": ["V.1.0.0"]
-      },
-      "version": "V.1.0.0",
-      "updated": true,
-      "branch": "master/V.1.0.0"
+        }
+      }
   }
